@@ -19,7 +19,7 @@ A full-stack supermarket management system for store owners built with Node.js, 
 ### Frontend
 - HTML5, CSS3, JavaScript (Vanilla)
 - Font Awesome Icons
-- Responsive design with sidebar dashboard
+- Responsive design with sidebar dashboard.
 
 ### Backend
 - Node.js with Express.js
