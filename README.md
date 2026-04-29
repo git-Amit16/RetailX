@@ -12,7 +12,7 @@ A full-stack supermarket management system for store owners built with Node.js, 
 - **Customers Management** - Manage customer database with search functionality
 - **Orders Management** - Create orders, automatically update inventory, view order history
 - **Inventory Management** - View stock levels, low-stock alerts, and restock products
-- **Profile** - View and manage owner profile
+- **Profile** - View and manage owner profile.
 
 ## 🛠️ Tech Stack
 
