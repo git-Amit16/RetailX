@@ -8,7 +8,7 @@ A full-stack supermarket management system for store owners built with Node.js, 
 - **Dashboard** - Overview with key statistics (Products, Orders, Customers, Low Stock Alerts, Revenue)
 - **Products Management** - Add, edit, delete, and view all products with category and supplier linking
 - **Categories Management** - Manage product categories.
-- **Suppliers Management** - Track supplier information and contacts
+- **Suppliers Management** - Track supplier information and contacts.
 - **Customers Management** - Manage customer database with search functionality
 - **Orders Management** - Create orders, automatically update inventory, view order history
 - **Inventory Management** - View stock levels, low-stock alerts, and restock products
