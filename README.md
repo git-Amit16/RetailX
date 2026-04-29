@@ -4,7 +4,7 @@ A full-stack supermarket management system for store owners built with Node.js, 
 
 ## ✨ Features
 
-- **Owner Login** - Secure authentication system
+- **Owner Login** - Secure authentication system.
 - **Dashboard** - Overview with key statistics (Products, Orders, Customers, Low Stock Alerts, Revenue)
 - **Products Management** - Add, edit, delete, and view all products with category and supplier linking
 - **Categories Management** - Manage product categories
