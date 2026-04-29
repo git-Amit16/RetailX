@@ -1,6 +1,6 @@
 # 🛒 Supermarket Management System
 
-A full-stack supermarket management system for store owners built with Node.js, Express.js, MySQL, and vanilla JavaScript.
+A full-stack supermarket management system for store owners built with Node.js, Express.js, MySQL, and  JavaScript.
 
 ## ✨ Features
 
